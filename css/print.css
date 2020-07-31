@@ -1,0 +1,9 @@
+.no-print{
+    display: none !important;
+}
+.text-light{
+    color: black !important;
+}
+.card-noticia{
+    background: #f2f2f2 !important;
+}

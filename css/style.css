@@ -434,6 +434,7 @@ header{
     font-size: 14px;
 }
 
+
 @media (max-width: 850px) {
     .carousel-item>img{
         height: 600px;
@@ -470,4 +471,5 @@ header{
         height: 60px;
     }
 }
+
 
