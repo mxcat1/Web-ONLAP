@@ -404,6 +404,13 @@ header{
     font-family: 'Roboto Mono', sans-serif;
     font-weight: bold;
 }
+.terminos{
+    background-image: url("https://images.unsplash.com/photo-1542813811-847a55fe8ce7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-size: cover;
+}
+.terminos>.container{
+    backdrop-filter: blur(10px);
+}
 .paginacion{
     display: flex;
     justify-content: center;
